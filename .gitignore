@@ -1,0 +1,19 @@
+# Output folders (scraped docs)
+output/
+*-docs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Poetry
+poetry.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp

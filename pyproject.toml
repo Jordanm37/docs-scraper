@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "docs-scraper"
+version = "0.1.0"
+description = "Scrape documentation sites to markdown"
+authors = ["jorda"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+httpx = "^0.28.1"
+beautifulsoup4 = "^4.14.3"
+markdownify = "^1.2.2"
+lxml = "^6.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

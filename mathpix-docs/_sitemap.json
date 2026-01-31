@@ -1,0 +1,1111 @@
+{
+  "base_url": "https://mathpix.com/docs",
+  "total_pages": 221,
+  "pages": [
+    {
+      "url": "https://mathpix.com/",
+      "title": "Mathpix: Document conversion done right",
+      "file": "mathpix-docs\\index.md"
+    },
+    {
+      "url": "https://mathpix.com/about",
+      "title": "About Mathpix",
+      "file": "mathpix-docs\\about.md"
+    },
+    {
+      "url": "https://mathpix.com/blog",
+      "title": "Mathpix Blog",
+      "file": "mathpix-docs\\blog.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/bulk-file-upload",
+      "title": "Bulk file upload, faster PDF processing, and more in Snip web",
+      "file": "mathpix-docs\\blog\\bulk-file-upload.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/chem-diagram-ocr-search",
+      "title": "Chemical diagram OCR and search",
+      "file": "mathpix-docs\\blog\\chem-diagram-ocr-search.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/console-launch",
+      "title": "OCR API has been moved to Mathpix Console",
+      "file": "mathpix-docs\\blog\\console-launch.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/convert-image-to-chemdraw",
+      "title": "Image to ChemDraw converter",
+      "file": "mathpix-docs\\blog\\convert-image-to-chemdraw.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/convert-pdf-to-excel",
+      "title": "Convert tabular data from PDF to Sheets and Excel (Screenshots)",
+      "file": "mathpix-docs\\blog\\convert-pdf-to-excel.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/convert-search-read-pdfs",
+      "title": "Convert, search, and read PDFs on any device with Snip",
+      "file": "mathpix-docs\\blog\\convert-search-read-pdfs.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/cyrillic-ocr",
+      "title": "The best OCR for Cyrillic alphabet texts with math and science",
+      "file": "mathpix-docs\\blog\\cyrillic-ocr.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/drawing-on-desktop",
+      "title": "In-app drawing now supported for all desktop apps",
+      "file": "mathpix-docs\\blog\\drawing-on-desktop.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/drawing-on-mobile-tablet",
+      "title": "Draw math equations: In-app drawing supported on Mathpix apps",
+      "file": "mathpix-docs\\blog\\drawing-on-mobile-tablet.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/euregion-digital-ink",
+      "title": "Mathpix OCR Update: EU Region, Client Side Tokens, APIs For Digital Ink With Live Updates, New PDF Features",
+      "file": "mathpix-docs\\blog\\euregion-digital-ink.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/faster-and-more-reliable-api",
+      "title": "Faster and more reliable Convert API",
+      "file": "mathpix-docs\\blog\\faster-and-more-reliable-api.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/figure-labels",
+      "title": "SuperNet-105: Figure Labels Now Linked to Figures",
+      "file": "mathpix-docs\\blog\\figure-labels.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/folders-csv-plain-md",
+      "title": "Folders, export tables to CSV, free admin seat, and more",
+      "file": "mathpix-docs\\blog\\folders-csv-plain-md.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/format-memory-improved-navigation",
+      "title": "Format memory and better navigation on Snip desktop",
+      "file": "mathpix-docs\\blog\\format-memory-improved-navigation.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/handwritten-chem-diagrams",
+      "title": "Convert printed and handwritten chemical diagrams to SMILES",
+      "file": "mathpix-docs\\blog\\handwritten-chem-diagrams.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/hindi-ocr",
+      "title": "The best OCR for Hindi images and PDFs with math and science",
+      "file": "mathpix-docs\\blog\\hindi-ocr.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/how-to-add-math-to-googledocs-and-powerpoint",
+      "title": "How to insert equations to PowerPoint and Google Docs",
+      "file": "mathpix-docs\\blog\\how-to-add-math-to-googledocs-and-powerpoint.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/how-to-create-snips",
+      "title": "8 ways to convert images of math and tables into LaTeX, Markdown, TSV, and more",
+      "file": "mathpix-docs\\blog\\how-to-create-snips.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/how-to-make-pdf-accessible",
+      "title": "How to make a PDF document accessible",
+      "file": "mathpix-docs\\blog\\how-to-make-pdf-accessible.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/how-to-use-latex-on-mac",
+      "title": "How to edit LaTeX on Mac",
+      "file": "mathpix-docs\\blog\\how-to-use-latex-on-mac.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/how-to-use-screen-reader-on-pdf",
+      "title": "How to use a screen reader on a PDF with math",
+      "file": "mathpix-docs\\blog\\how-to-use-screen-reader-on-pdf.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/image-api-price-reduction",
+      "title": "Lower prices for Image API",
+      "file": "mathpix-docs\\blog\\image-api-price-reduction.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/image-export-settings-desktop",
+      "title": "New image export settings on Snip desktop apps",
+      "file": "mathpix-docs\\blog\\image-export-settings-desktop.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/image-to-code-ocr",
+      "title": "Image to Code OCR Just Released!",
+      "file": "mathpix-docs\\blog\\image-to-code-ocr.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/image-to-latex-converter",
+      "title": "Image to LaTeX Converter",
+      "file": "mathpix-docs\\blog\\image-to-latex-converter.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/image-to-smiles-converter",
+      "title": "How to convert image to SMILES",
+      "file": "mathpix-docs\\blog\\image-to-smiles-converter.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/improved-chem-diagram-recognition",
+      "title": "Major improvements made to Mathpix\u2019s Chemistry OCR",
+      "file": "mathpix-docs\\blog\\improved-chem-diagram-recognition.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/improved-compatibility-msword",
+      "title": "Major improvements to MS Word compatibility",
+      "file": "mathpix-docs\\blog\\improved-compatibility-msword.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/improved-drawing-mobile",
+      "title": "Improved drawing and overall usability on Snip mobile and tablet apps",
+      "file": "mathpix-docs\\blog\\improved-drawing-mobile.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/improved-handling-of-rotated-content",
+      "title": "Improved handling of rotated content in PDF processing",
+      "file": "mathpix-docs\\blog\\improved-handling-of-rotated-content.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/insert-equations-into-microsoft-word",
+      "title": "How to insert an equation into Microsoft Word with Mathpix Snip",
+      "file": "mathpix-docs\\blog\\insert-equations-into-microsoft-word.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/interactive-assignments-snip-notes",
+      "title": "Create interactive assignments with Snip Web",
+      "file": "mathpix-docs\\blog\\interactive-assignments-snip-notes.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/japanese-ocr",
+      "title": "The best OCR for images and PDFs with Japanese characters and math",
+      "file": "mathpix-docs\\blog\\japanese-ocr.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/large-table-conversion",
+      "title": "Improved Table Support: Introducing our new algorithm for converting large tables",
+      "file": "mathpix-docs\\blog\\large-table-conversion.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/latex-table-generator",
+      "title": "OCR-powered LaTeX Table Generator",
+      "file": "mathpix-docs\\blog\\latex-table-generator.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/mathpix-pro-for-free",
+      "title": "Get Mathpix Pro for free when you submit to Spectra",
+      "file": "mathpix-docs\\blog\\mathpix-pro-for-free.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/mathpix-text-endpoint",
+      "title": "New API endpoint for MathpixOCR (beta)",
+      "file": "mathpix-docs\\blog\\mathpix-text-endpoint.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/mathpix-text-ocr",
+      "title": "Mathpix now supports text OCR",
+      "file": "mathpix-docs\\blog\\mathpix-text-ocr.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/more-free-snips-for-students",
+      "title": "Get the free Snips for educational accounts",
+      "file": "mathpix-docs\\blog\\more-free-snips-for-students.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/mpxpy",
+      "title": "Introducing mpxpy (our new Python client), support for DOCX / PPTX / EPUB file formats, and more",
+      "file": "mathpix-docs\\blog\\mpxpy.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/multi-language-interface",
+      "title": "Snip web app now translated into 14 languages",
+      "file": "mathpix-docs\\blog\\multi-language-interface.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/new-algorithm-for-stereochemistry-and-markush-structures",
+      "title": "New chemistry algorithm: recognizing stereochemistry, Markush structures, and more",
+      "file": "mathpix-docs\\blog\\new-algorithm-for-stereochemistry-and-markush-structures.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/new-chrome-extension",
+      "title": "New Snip Chrome extension for PDF cloud",
+      "file": "mathpix-docs\\blog\\new-chrome-extension.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/new-languages",
+      "title": "SuperNet\u2011108: OCR support for new languages, more reliable results for old scanned documents, and more",
+      "file": "mathpix-docs\\blog\\new-languages.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/new-linux-app-appimage",
+      "title": "New Linux Snip app with better OS compatibility",
+      "file": "mathpix-docs\\blog\\new-linux-app-appimage.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/new-pdf-api-pricing",
+      "title": "Lower prices for our PDF API",
+      "file": "mathpix-docs\\blog\\new-pdf-api-pricing.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/new-search-tab",
+      "title": "Search the web with a math equation in Snip's new Search tab",
+      "file": "mathpix-docs\\blog\\new-search-tab.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/new-solver-tab",
+      "title": "New Solver tab in Snip",
+      "file": "mathpix-docs\\blog\\new-solver-tab.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/new-spectra-competition",
+      "title": "Mathpix announces new Spectra ML review paper competition",
+      "file": "mathpix-docs\\blog\\new-spectra-competition.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/new-zips",
+      "title": "New HTML, MMD, and MD ZIP export formats",
+      "file": "mathpix-docs\\blog\\new-zips.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/ocr-chinese-characters",
+      "title": "The best OCR for Chinese and math",
+      "file": "mathpix-docs\\blog\\ocr-chinese-characters.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/ocr-powered-markdown-table-generator",
+      "title": "OCR-powered Markdown Table Generator",
+      "file": "mathpix-docs\\blog\\ocr-powered-markdown-table-generator.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/pdf-conversion-desktop",
+      "title": "PDF Conversion is now supported in the Snipping Tool!",
+      "file": "mathpix-docs\\blog\\pdf-conversion-desktop.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/pdf-processing-new-pricing",
+      "title": "Convert whole PDFs to LaTeX, DOCX, Markdown; updated pricing",
+      "file": "mathpix-docs\\blog\\pdf-processing-new-pricing.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/pdf-to-csv",
+      "title": "Convert tables in PDFs to CSV files in less than 30 seconds",
+      "file": "mathpix-docs\\blog\\pdf-to-csv.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/pdf-to-html-converter",
+      "title": "Mathpix PDF to HTML Converter",
+      "file": "mathpix-docs\\blog\\pdf-to-html-converter.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/pdf-to-latex-converter",
+      "title": "Mathpix PDF to LaTeX Converter",
+      "file": "mathpix-docs\\blog\\pdf-to-latex-converter.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/pdf-to-word-converter",
+      "title": "Mathpix PDF to Word Converter",
+      "file": "mathpix-docs\\blog\\pdf-to-word-converter.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/performance-improvements-windows",
+      "title": "Improved performance on Windows Snip",
+      "file": "mathpix-docs\\blog\\performance-improvements-windows.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/price-reduction-for-pdf-api",
+      "title": "Price reduction for PDF API, plain Markdown outputs from PDFs for your LLMs, faster PDF processing, and more",
+      "file": "mathpix-docs\\blog\\price-reduction-for-pdf-api.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/reduced-extra-usage-pricing",
+      "title": "Reduced pricing for extra usage, full-page Snip view, new Home page, and more",
+      "file": "mathpix-docs\\blog\\reduced-extra-usage-pricing.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/second-spectra-competition",
+      "title": "$10K for your STEM papers: our scientific-writing competition expands to all major disciplines",
+      "file": "mathpix-docs\\blog\\second-spectra-competition.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/select-text-from-pdfs",
+      "title": "Copy text and math directly from source PDFs",
+      "file": "mathpix-docs\\blog\\select-text-from-pdfs.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/snip-2.0",
+      "title": "Snip with OCR 2.0 on Desktop",
+      "file": "mathpix-docs\\blog\\snip-2.0.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/snip-2.0-ios-android",
+      "title": "Snip 2.0 on iOS & Android: Notes and PDFs on mobile",
+      "file": "mathpix-docs\\blog\\snip-2.0-ios-android.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/snip-accessibility-features",
+      "title": "New accessibility features for creating and consuming scientific content with Snip",
+      "file": "mathpix-docs\\blog\\snip-accessibility-features.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/snip-bugfixes-handwriting-recognition-improvements",
+      "title": "Improved handwriting recognition, Snip bugfixes, and more",
+      "file": "mathpix-docs\\blog\\snip-bugfixes-handwriting-recognition-improvements.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/snip-improved-desktop-apps",
+      "title": "New and improved Snip desktop apps: macOS, Windows, and Linux",
+      "file": "mathpix-docs\\blog\\snip-improved-desktop-apps.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/snip-ios-android",
+      "title": "Snip: Now on Mobile",
+      "file": "mathpix-docs\\blog\\snip-ios-android.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/snip-markdown-tables",
+      "title": "Markdown format now supported for table OCR",
+      "file": "mathpix-docs\\blog\\snip-markdown-tables.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/snip-multitasking-goodnotes",
+      "title": "Multitasking now supported on iPad",
+      "file": "mathpix-docs\\blog\\snip-multitasking-goodnotes.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/snip-notes-beta",
+      "title": "Snip web app (beta): OCR Powered Notes App With LaTeX Flavored Markdown",
+      "file": "mathpix-docs\\blog\\snip-notes-beta.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/snip-with-canvas-lms",
+      "title": "Using Snip with Canvas LMS",
+      "file": "mathpix-docs\\blog\\snip-with-canvas-lms.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/spectra-comp-march21-winners",
+      "title": "1st batch of winners chosen for our Spectra ML review paper competition!",
+      "file": "mathpix-docs\\blog\\spectra-comp-march21-winners.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/spectra-competition-winners-spring-2022",
+      "title": "Spectra Research Writing Competition results announced for Spring 2022",
+      "file": "mathpix-docs\\blog\\spectra-competition-winners-spring-2022.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/spellcheck-english-handwriting",
+      "title": "New spell check feature significantly improves English handwriting OCR",
+      "file": "mathpix-docs\\blog\\spellcheck-english-handwriting.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/streaming-api-for-pdfs",
+      "title": "Streaming API for PDF OCR",
+      "file": "mathpix-docs\\blog\\streaming-api-for-pdfs.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/supernet",
+      "title": "Update for image and PDF API: new layout model, document tree outputs, parse text inside charts and diagrams",
+      "file": "mathpix-docs\\blog\\supernet.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/tsv-table-generator",
+      "title": "OCR-powered TSV Table Generator",
+      "file": "mathpix-docs\\blog\\tsv-table-generator.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/two-factor-authentication",
+      "title": "Two-Factor Authentication (2FA) Now Supported",
+      "file": "mathpix-docs\\blog\\two-factor-authentication.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/v1-table-recognition",
+      "title": "Mathpix now supports basic table OCR",
+      "file": "mathpix-docs\\blog\\v1-table-recognition.md"
+    },
+    {
+      "url": "https://mathpix.com/blog/windows-beta",
+      "title": "Snipping Tool beta for Windows released!",
+      "file": "mathpix-docs\\blog\\windows-beta.md"
+    },
+    {
+      "url": "https://mathpix.com/careers",
+      "title": "Careers at Mathpix",
+      "file": "mathpix-docs\\careers.md"
+    },
+    {
+      "url": "https://mathpix.com/chrome-extension",
+      "title": "Snip Chrome Extension",
+      "file": "mathpix-docs\\chrome-extension.md"
+    },
+    {
+      "url": "https://mathpix.com/contact-us",
+      "title": "Mathpix: Contact Us form. ",
+      "file": "mathpix-docs\\contact-us.md"
+    },
+    {
+      "url": "https://mathpix.com/convert",
+      "title": "Convert API: Image & PDF digitizing API for STEM",
+      "file": "mathpix-docs\\convert.md"
+    },
+    {
+      "url": "https://mathpix.com/desktop-downloads",
+      "title": "Mathpix Downloads: MacOS, Windows & Linux.",
+      "file": "mathpix-docs\\desktop-downloads.md"
+    },
+    {
+      "url": "https://mathpix.com/digital-ink",
+      "title": "Digital ink API for handwriting, math, and science",
+      "file": "mathpix-docs\\digital-ink.md"
+    },
+    {
+      "url": "https://mathpix.com/dmg/snip.dmg",
+      "title": "",
+      "file": "mathpix-docs\\dmg\\snip.dmg.md"
+    },
+    {
+      "url": "https://mathpix.com/docs",
+      "title": "Mathpix Documentation",
+      "file": "mathpix-docs\\docs.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert",
+      "title": " Convert API User Guide: Documentation Overview",
+      "file": "mathpix-docs\\docs\\convert.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/best-practices",
+      "title": " Convert API User Guide: API Best Practices",
+      "file": "mathpix-docs\\docs\\convert\\best-practices.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/billing",
+      "title": " Convert API User Guide: Billing",
+      "file": "mathpix-docs\\docs\\convert\\billing.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/changelog",
+      "title": " Convert API User Guide: Changelog",
+      "file": "mathpix-docs\\docs\\convert\\changelog.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/creating-an-api-key",
+      "title": " Convert API User Guide: Creating an API key",
+      "file": "mathpix-docs\\docs\\convert\\creating-an-api-key.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/endpoints",
+      "title": " Convert API User Guide: All API endpoints",
+      "file": "mathpix-docs\\docs\\convert\\endpoints.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/examples",
+      "title": " Convert API User Guide: Examples of Rendered Math and Text",
+      "file": "mathpix-docs\\docs\\convert\\examples.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/limits",
+      "title": " Convert API User Guide: Rate and page limits",
+      "file": "mathpix-docs\\docs\\convert\\limits.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/overview",
+      "title": " Convert API User Guide: Documentation Overview",
+      "file": "mathpix-docs\\docs\\convert\\overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/privacy",
+      "title": " Convert API User Guide: Privacy FAQ",
+      "file": "mathpix-docs\\docs\\convert\\privacy.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/supported_characters",
+      "title": " Convert API User Guide: Supported Characters",
+      "file": "mathpix-docs\\docs\\convert\\supported_characters.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/supported_languages",
+      "title": " Convert API User Guide: Supported Languages",
+      "file": "mathpix-docs\\docs\\convert\\supported_languages.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/convert/usecases",
+      "title": " Convert API User Guide: Use Cases",
+      "file": "mathpix-docs\\docs\\convert\\usecases.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mathpix-markdown",
+      "title": " Mathpix Markdown User Guide: What is Mathpix Markdown?",
+      "file": "mathpix-docs\\docs\\mathpix-markdown.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mathpix-markdown/figures",
+      "title": " Mathpix Markdown User Guide: LaTeX Style Figures",
+      "file": "mathpix-docs\\docs\\mathpix-markdown\\figures.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mathpix-markdown/how-to-mmd-vscode",
+      "title": " Mathpix Markdown User Guide: Using MMD with Visual Studio Code",
+      "file": "mathpix-docs\\docs\\mathpix-markdown\\how-to-mmd-vscode.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mathpix-markdown/how-to-mmd-web",
+      "title": " Mathpix Markdown User Guide: Using MMD in a web browser",
+      "file": "mathpix-docs\\docs\\mathpix-markdown\\how-to-mmd-web.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mathpix-markdown/lists",
+      "title": " Mathpix Markdown User Guide: Lists",
+      "file": "mathpix-docs\\docs\\mathpix-markdown\\lists.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mathpix-markdown/overview",
+      "title": " Mathpix Markdown User Guide: What is Mathpix Markdown?",
+      "file": "mathpix-docs\\docs\\mathpix-markdown\\overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mathpix-markdown/syntax-reference",
+      "title": " Mathpix Markdown User Guide: Syntax Reference",
+      "file": "mathpix-docs\\docs\\mathpix-markdown\\syntax-reference.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mathpix-markdown/tables",
+      "title": " Mathpix Markdown User Guide: Create & Format Tables",
+      "file": "mathpix-docs\\docs\\mathpix-markdown\\tables.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mathpix-markdown/theorems-and-proofs",
+      "title": " Mathpix Markdown User Guide: Theorems and proofs",
+      "file": "mathpix-docs\\docs\\mathpix-markdown\\theorems-and-proofs.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mpxpy",
+      "title": " Mathpix Python SDK Overview",
+      "file": "mathpix-docs\\docs\\mpxpy.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mpxpy/auth",
+      "title": " Authentication and Environment",
+      "file": "mathpix-docs\\docs\\mpxpy\\auth.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mpxpy/errors",
+      "title": " Error Handling and Debugging",
+      "file": "mathpix-docs\\docs\\mpxpy\\errors.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mpxpy/formats",
+      "title": " Available Output Formats in Mathpix Python SDK",
+      "file": "mathpix-docs\\docs\\mpxpy\\formats.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mpxpy/getting-started",
+      "title": " Getting Started with Mathpix Python SDK",
+      "file": "mathpix-docs\\docs\\mpxpy\\getting-started.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mpxpy/github",
+      "title": " Mathpix Python SDK on GitHub",
+      "file": "mathpix-docs\\docs\\mpxpy\\github.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mpxpy/images",
+      "title": " Processing Images with Mathpix Python SDK",
+      "file": "mathpix-docs\\docs\\mpxpy\\images.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mpxpy/markdown",
+      "title": " Converting Mathpix Markdown with Mathpix Python SDK",
+      "file": "mathpix-docs\\docs\\mpxpy\\markdown.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mpxpy/overview",
+      "title": " Mathpix Python SDK Overview",
+      "file": "mathpix-docs\\docs\\mpxpy\\overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/mpxpy/pdf",
+      "title": " Processing PDFs with Mathpix Python SDK",
+      "file": "mathpix-docs\\docs\\mpxpy\\pdf.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip",
+      "title": " What is Mathpix Snip?",
+      "file": "mathpix-docs\\docs\\snip.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/accessibility-overview",
+      "title": " Accessibility",
+      "file": "mathpix-docs\\docs\\snip\\accessibility-overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/accounts-billing",
+      "title": " Snip Accounts & Billing Overview",
+      "file": "mathpix-docs\\docs\\snip\\accounts-billing.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/android-overview",
+      "title": " Snip for Android",
+      "file": "mathpix-docs\\docs\\snip\\android-overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/billing-overview",
+      "title": " Payments & Billing",
+      "file": "mathpix-docs\\docs\\snip\\billing-overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/changelog",
+      "title": " Snip Changelog",
+      "file": "mathpix-docs\\docs\\snip\\changelog.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/compatibility",
+      "title": " Compatibility",
+      "file": "mathpix-docs\\docs\\snip\\compatibility.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/create-snips",
+      "title": " How to create Snips",
+      "file": "mathpix-docs\\docs\\snip\\create-snips.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/creating-individual-account",
+      "title": " Creating a Snip Account",
+      "file": "mathpix-docs\\docs\\snip\\creating-individual-account.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/delete-indv-account",
+      "title": " Deleting Individual Account",
+      "file": "mathpix-docs\\docs\\snip\\delete-indv-account.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/downgrading-indv-subscription",
+      "title": " Downgrading the Subscription Plan",
+      "file": "mathpix-docs\\docs\\snip\\downgrading-indv-subscription.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/editor-overview",
+      "title": " Snip Web",
+      "file": "mathpix-docs\\docs\\snip\\editor-overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/educational-plan",
+      "title": " Educational Plan",
+      "file": "mathpix-docs\\docs\\snip\\educational-plan.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/extension-overview",
+      "title": " Chrome Extension",
+      "file": "mathpix-docs\\docs\\snip\\extension-overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/individual-accounts-overview",
+      "title": " Individual Mathpix Accounts",
+      "file": "mathpix-docs\\docs\\snip\\individual-accounts-overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/ios-overview",
+      "title": " Snip for iOS",
+      "file": "mathpix-docs\\docs\\snip\\ios-overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/linux-overview",
+      "title": " Snip for Linux",
+      "file": "mathpix-docs\\docs\\snip\\linux-overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/macos-overview",
+      "title": " Snip for MacOS",
+      "file": "mathpix-docs\\docs\\snip\\macos-overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/mpx-cli",
+      "title": " Mathpix CLI",
+      "file": "mathpix-docs\\docs\\snip\\mpx-cli.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/organizations-overview",
+      "title": " Mathpix for Organizations",
+      "file": "mathpix-docs\\docs\\snip\\organizations-overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/overview",
+      "title": " What is Mathpix Snip?",
+      "file": "mathpix-docs\\docs\\snip\\overview.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/privacy-page",
+      "title": " Privacy",
+      "file": "mathpix-docs\\docs\\snip\\privacy-page.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/snip-for-desktop",
+      "title": " Snip on desktop",
+      "file": "mathpix-docs\\docs\\snip\\snip-for-desktop.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/snip-for-mobile",
+      "title": " Snip on mobile",
+      "file": "mathpix-docs\\docs\\snip\\snip-for-mobile.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/snip-solver-capabilities",
+      "title": " Snip Solver",
+      "file": "mathpix-docs\\docs\\snip\\snip-solver-capabilities.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/snip-with-canvas-lms",
+      "title": " Snip with Canvas LMS",
+      "file": "mathpix-docs\\docs\\snip\\snip-with-canvas-lms.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/snip-with-chemdraw",
+      "title": " Snip with ChemDraw",
+      "file": "mathpix-docs\\docs\\snip\\snip-with-chemdraw.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/snip-with-microsoft-excel",
+      "title": " Snip with MS Excel (or Google Sheets)",
+      "file": "mathpix-docs\\docs\\snip\\snip-with-microsoft-excel.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/snip-with-microsoft-word",
+      "title": " Snip with MS Word",
+      "file": "mathpix-docs\\docs\\snip\\snip-with-microsoft-word.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/snip-with-notion",
+      "title": " Snip with Notion",
+      "file": "mathpix-docs\\docs\\snip\\snip-with-notion.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/snip-with-overleaf",
+      "title": " Snip with Overleaf",
+      "file": "mathpix-docs\\docs\\snip\\snip-with-overleaf.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/snip-with-pdfs",
+      "title": " Snip for digitizing PDFs",
+      "file": "mathpix-docs\\docs\\snip\\snip-with-pdfs.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/snip-with-typora",
+      "title": " Snip with Typora",
+      "file": "mathpix-docs\\docs\\snip\\snip-with-typora.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/try-examples",
+      "title": " Image Examples",
+      "file": "mathpix-docs\\docs\\snip\\try-examples.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/try-examples-equations",
+      "title": " Math Examples",
+      "file": "mathpix-docs\\docs\\snip\\try-examples-equations.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/try-examples-tables",
+      "title": " Table Examples",
+      "file": "mathpix-docs\\docs\\snip\\try-examples-tables.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/upgrading-indv-subscription",
+      "title": " Upgrading to Mathpix Pro plan",
+      "file": "mathpix-docs\\docs\\snip\\upgrading-indv-subscription.md"
+    },
+    {
+      "url": "https://mathpix.com/docs/snip/windows-overview",
+      "title": " Snip on Windows",
+      "file": "mathpix-docs\\docs\\snip\\windows-overview.md"
+    },
+    {
+      "url": "https://mathpix.com/equation-to-latex",
+      "title": "Equation to LaTeX",
+      "file": "mathpix-docs\\equation-to-latex.md"
+    },
+    {
+      "url": "https://mathpix.com/equation-to-word",
+      "title": "Equation to MS Word",
+      "file": "mathpix-docs\\equation-to-word.md"
+    },
+    {
+      "url": "https://mathpix.com/extension-downloads",
+      "title": "Mathpix Downloads: Chrome Extension. ",
+      "file": "mathpix-docs\\extension-downloads.md"
+    },
+    {
+      "url": "https://mathpix.com/faq",
+      "title": " Privacy",
+      "file": "mathpix-docs\\faq.md"
+    },
+    {
+      "url": "https://mathpix.com/features/conversion-gallery",
+      "title": "Conversion Gallery | Mathpix",
+      "file": "mathpix-docs\\features\\conversion-gallery.md"
+    },
+    {
+      "url": "https://mathpix.com/glossary",
+      "title": "Mathpix Feature Glossary",
+      "file": "mathpix-docs\\glossary.md"
+    },
+    {
+      "url": "https://mathpix.com/handwriting-recognition",
+      "title": "Handwriting Recognition",
+      "file": "mathpix-docs\\handwriting-recognition.md"
+    },
+    {
+      "url": "https://mathpix.com/image-conversion",
+      "title": "Image Conversion",
+      "file": "mathpix-docs\\image-conversion.md"
+    },
+    {
+      "url": "https://mathpix.com/image-to-asciimath",
+      "title": "Image to AsciiMath",
+      "file": "mathpix-docs\\image-to-asciimath.md"
+    },
+    {
+      "url": "https://mathpix.com/image-to-chemdraw",
+      "title": "Image to ChemDraw",
+      "file": "mathpix-docs\\image-to-chemdraw.md"
+    },
+    {
+      "url": "https://mathpix.com/image-to-latex",
+      "title": "Image to LaTeX",
+      "file": "mathpix-docs\\image-to-latex.md"
+    },
+    {
+      "url": "https://mathpix.com/image-to-smiles",
+      "title": "Image to SMILES",
+      "file": "mathpix-docs\\image-to-smiles.md"
+    },
+    {
+      "url": "https://mathpix.com/image-to-word",
+      "title": "Image to MS Word",
+      "file": "mathpix-docs\\image-to-word.md"
+    },
+    {
+      "url": "https://mathpix.com/language-support",
+      "title": "All Supported Languages",
+      "file": "mathpix-docs\\language-support.md"
+    },
+    {
+      "url": "https://mathpix.com/markdown-conversion",
+      "title": "Markdown Conversion",
+      "file": "mathpix-docs\\markdown-conversion.md"
+    },
+    {
+      "url": "https://mathpix.com/markdown-to-docx",
+      "title": "Markdown to DOCX",
+      "file": "mathpix-docs\\markdown-to-docx.md"
+    },
+    {
+      "url": "https://mathpix.com/markdown-to-latex",
+      "title": "Markdown to LaTeX",
+      "file": "mathpix-docs\\markdown-to-latex.md"
+    },
+    {
+      "url": "https://mathpix.com/markdown-to-pdf",
+      "title": "Markdown to PDF",
+      "file": "mathpix-docs\\markdown-to-pdf.md"
+    },
+    {
+      "url": "https://mathpix.com/mathpix-markdown",
+      "title": "Mathpix Markdown: Markdown for Math and Science",
+      "file": "mathpix-docs\\mathpix-markdown.md"
+    },
+    {
+      "url": "https://mathpix.com/mobile-downloads",
+      "title": "Mathpix Downloads: iOS and Android. ",
+      "file": "mathpix-docs\\mobile-downloads.md"
+    },
+    {
+      "url": "https://mathpix.com/mpx-cli",
+      "title": "MPX CLI: a command line interface for document format conversion",
+      "file": "mathpix-docs\\mpx-cli.md"
+    },
+    {
+      "url": "https://mathpix.com/ocr-table",
+      "title": "Table OCR",
+      "file": "mathpix-docs\\ocr-table.md"
+    },
+    {
+      "url": "https://mathpix.com/on-prem-pdf-cloud",
+      "title": "On-prem PDF cloud",
+      "file": "mathpix-docs\\on-prem-pdf-cloud.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-conversion",
+      "title": "PDF Conversion",
+      "file": "mathpix-docs\\pdf-conversion.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-data-extraction",
+      "title": "PDF Data Extraction",
+      "file": "mathpix-docs\\pdf-data-extraction.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-reader",
+      "title": "PDF Reader",
+      "file": "mathpix-docs\\pdf-reader.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-search",
+      "title": "PDF Search",
+      "file": "mathpix-docs\\pdf-search.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-to-docx",
+      "title": "PDF to DOCX",
+      "file": "mathpix-docs\\pdf-to-docx.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-to-excel",
+      "title": "PDF to Excel",
+      "file": "mathpix-docs\\pdf-to-excel.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-to-googlesheets",
+      "title": "PDF to Google Sheets",
+      "file": "mathpix-docs\\pdf-to-googlesheets.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-to-html",
+      "title": "PDF to HTML",
+      "file": "mathpix-docs\\pdf-to-html.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-to-latex",
+      "title": "PDF to LaTeX",
+      "file": "mathpix-docs\\pdf-to-latex.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-to-markdown",
+      "title": "PDF to Markdown",
+      "file": "mathpix-docs\\pdf-to-markdown.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-to-overleaf",
+      "title": "PDF to Overleaf",
+      "file": "mathpix-docs\\pdf-to-overleaf.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-to-tsv",
+      "title": "PDF to TSV",
+      "file": "mathpix-docs\\pdf-to-tsv.md"
+    },
+    {
+      "url": "https://mathpix.com/pdf-to-word",
+      "title": "PDF to Word",
+      "file": "mathpix-docs\\pdf-to-word.md"
+    },
+    {
+      "url": "https://mathpix.com/pricing",
+      "title": "Mathpix Pricing",
+      "file": "mathpix-docs\\pricing.md"
+    },
+    {
+      "url": "https://mathpix.com/pricing/api",
+      "title": "Mathpix Convert API Pricing",
+      "file": "mathpix-docs\\pricing\\api.md"
+    },
+    {
+      "url": "https://mathpix.com/pricing/scs",
+      "title": "Mathpix SCS Pricing",
+      "file": "mathpix-docs\\pricing\\scs.md"
+    },
+    {
+      "url": "https://mathpix.com/pricing/snip",
+      "title": "Mathpix Snip Pricing",
+      "file": "mathpix-docs\\pricing\\snip.md"
+    },
+    {
+      "url": "https://mathpix.com/privacy",
+      "title": "Mathpix Privacy Policy",
+      "file": "mathpix-docs\\privacy.md"
+    },
+    {
+      "url": "https://mathpix.com/secure-conversion",
+      "title": "Mathpix for Secure Conversion Service",
+      "file": "mathpix-docs\\secure-conversion.md"
+    },
+    {
+      "url": "https://mathpix.com/security",
+      "title": "Security at Mathpix",
+      "file": "mathpix-docs\\security.md"
+    },
+    {
+      "url": "https://mathpix.com/snip",
+      "title": "Mathpix: Snip Apps",
+      "file": "mathpix-docs\\snip.md"
+    },
+    {
+      "url": "https://mathpix.com/snipping-tool",
+      "title": "Mathpix: Snipping Tool",
+      "file": "mathpix-docs\\snipping-tool.md"
+    },
+    {
+      "url": "https://mathpix.com/spectra",
+      "title": "Spectra: Online publishing for STEM",
+      "file": "mathpix-docs\\spectra.md"
+    },
+    {
+      "url": "https://mathpix.com/table-to-csv",
+      "title": "Table to CSV",
+      "file": "mathpix-docs\\table-to-csv.md"
+    },
+    {
+      "url": "https://mathpix.com/table-to-latex",
+      "title": "Table to LaTeX",
+      "file": "mathpix-docs\\table-to-latex.md"
+    },
+    {
+      "url": "https://mathpix.com/table-to-markdown",
+      "title": "Table to Markdown",
+      "file": "mathpix-docs\\table-to-markdown.md"
+    },
+    {
+      "url": "https://mathpix.com/terms",
+      "title": "Mathpix Terms and Conditions",
+      "file": "mathpix-docs\\terms.md"
+    },
+    {
+      "url": "https://mathpix.com/use-cases/accessibility",
+      "title": "Mathpix for Accessibility",
+      "file": "mathpix-docs\\use-cases\\accessibility.md"
+    },
+    {
+      "url": "https://mathpix.com/use-cases/ai",
+      "title": "Mathpix for AI",
+      "file": "mathpix-docs\\use-cases\\ai.md"
+    },
+    {
+      "url": "https://mathpix.com/use-cases/collaboration",
+      "title": "Mathpix for Collaboration",
+      "file": "mathpix-docs\\use-cases\\collaboration.md"
+    },
+    {
+      "url": "https://mathpix.com/use-cases/edtech",
+      "title": "Mathpix for Edtech",
+      "file": "mathpix-docs\\use-cases\\edtech.md"
+    },
+    {
+      "url": "https://mathpix.com/use-cases/fintech",
+      "title": "Mathpix for AI",
+      "file": "mathpix-docs\\use-cases\\fintech.md"
+    },
+    {
+      "url": "https://mathpix.com/use-cases/for-chemistry",
+      "title": "Mathpix for Chemistry",
+      "file": "mathpix-docs\\use-cases\\for-chemistry.md"
+    },
+    {
+      "url": "https://mathpix.com/use-cases/for-universities",
+      "title": "Mathpix for Universities",
+      "file": "mathpix-docs\\use-cases\\for-universities.md"
+    },
+    {
+      "url": "https://mathpix.com/web-downloads",
+      "title": "Mathpix: Snip Apps",
+      "file": "mathpix-docs\\web-downloads.md"
+    }
+  ]
+}

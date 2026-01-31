@@ -1,6 +1,5 @@
 # Output folders (scraped docs)
-output/
-*-docs/
+
 
 # Python
 __pycache__/

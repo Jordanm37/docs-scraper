@@ -1,0 +1,9 @@
+---
+title: BOOT - Clawdbot
+url: https://docs.clawd.bot/reference/templates/BOOT
+---
+
+# [​](#boot-md) BOOT.md
+
+Add short, explicit instructions for what Clawdbot should do on startup (enable `hooks.internal.enabled`).
+If the task sends a message, use the message tool and then reply with NO\_REPLY.

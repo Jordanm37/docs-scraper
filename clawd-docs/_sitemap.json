@@ -1,0 +1,1371 @@
+{
+  "base_url": "https://docs.clawd.bot",
+  "total_pages": 273,
+  "pages": [
+    {
+      "url": "https://docs.clawd.bot",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\index.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\index.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/automation/auth-monitoring",
+      "title": "Auth monitoring - Clawdbot",
+      "file": "clawd-docs\\automation\\auth-monitoring.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/automation/cron-jobs",
+      "title": "Cron jobs - Clawdbot",
+      "file": "clawd-docs\\automation\\cron-jobs.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/automation/cron-vs-heartbeat",
+      "title": "Cron vs heartbeat - Clawdbot",
+      "file": "clawd-docs\\automation\\cron-vs-heartbeat.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/automation/gmail-pubsub",
+      "title": "Gmail pubsub - Clawdbot",
+      "file": "clawd-docs\\automation\\gmail-pubsub.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/automation/poll",
+      "title": "Poll - Clawdbot",
+      "file": "clawd-docs\\automation\\poll.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/automation/webhook",
+      "title": "Webhook - Clawdbot",
+      "file": "clawd-docs\\automation\\webhook.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/bedrock",
+      "title": "Bedrock - Clawdbot",
+      "file": "clawd-docs\\bedrock.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/brave-search",
+      "title": "Brave search - Clawdbot",
+      "file": "clawd-docs\\brave-search.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/broadcast-groups",
+      "title": "Broadcast groups - Clawdbot",
+      "file": "clawd-docs\\broadcast-groups.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\channels.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/bluebubbles",
+      "title": "Bluebubbles - Clawdbot",
+      "file": "clawd-docs\\channels\\bluebubbles.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/discord",
+      "title": "Discord - Clawdbot",
+      "file": "clawd-docs\\channels\\discord.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/googlechat",
+      "title": "Googlechat - Clawdbot",
+      "file": "clawd-docs\\channels\\googlechat.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/grammy",
+      "title": "Grammy - Clawdbot",
+      "file": "clawd-docs\\channels\\grammy.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/imessage",
+      "title": "Imessage - Clawdbot",
+      "file": "clawd-docs\\channels\\imessage.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/index",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\channels\\index.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/location",
+      "title": "Location - Clawdbot",
+      "file": "clawd-docs\\channels\\location.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/matrix",
+      "title": "Matrix - Clawdbot",
+      "file": "clawd-docs\\channels\\matrix.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/mattermost",
+      "title": "Mattermost - Clawdbot",
+      "file": "clawd-docs\\channels\\mattermost.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/msteams",
+      "title": "Msteams - Clawdbot",
+      "file": "clawd-docs\\channels\\msteams.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/nextcloud-talk",
+      "title": "Nextcloud talk - Clawdbot",
+      "file": "clawd-docs\\channels\\nextcloud-talk.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/nostr",
+      "title": "Nostr - Clawdbot",
+      "file": "clawd-docs\\channels\\nostr.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/signal",
+      "title": "Signal - Clawdbot",
+      "file": "clawd-docs\\channels\\signal.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/slack",
+      "title": "Slack - Clawdbot",
+      "file": "clawd-docs\\channels\\slack.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/telegram",
+      "title": "Telegram - Clawdbot",
+      "file": "clawd-docs\\channels\\telegram.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/tlon",
+      "title": "Tlon - Clawdbot",
+      "file": "clawd-docs\\channels\\tlon.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/troubleshooting",
+      "title": "Troubleshooting - Clawdbot",
+      "file": "clawd-docs\\channels\\troubleshooting.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/whatsapp",
+      "title": "Whatsapp - Clawdbot",
+      "file": "clawd-docs\\channels\\whatsapp.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/zalo",
+      "title": "Zalo - Clawdbot",
+      "file": "clawd-docs\\channels\\zalo.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/channels/zalouser",
+      "title": "Zalouser - Clawdbot",
+      "file": "clawd-docs\\channels\\zalouser.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\cli.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/acp",
+      "title": "Acp - Clawdbot",
+      "file": "clawd-docs\\cli\\acp.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/agent",
+      "title": "Agent - Clawdbot",
+      "file": "clawd-docs\\cli\\agent.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/agents",
+      "title": "Agents - Clawdbot",
+      "file": "clawd-docs\\cli\\agents.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/approvals",
+      "title": "Approvals - Clawdbot",
+      "file": "clawd-docs\\cli\\approvals.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/browser",
+      "title": "Browser - Clawdbot",
+      "file": "clawd-docs\\cli\\browser.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/channels",
+      "title": "Channels - Clawdbot",
+      "file": "clawd-docs\\cli\\channels.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/config",
+      "title": "Config - Clawdbot",
+      "file": "clawd-docs\\cli\\config.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/configure",
+      "title": "Configure - Clawdbot",
+      "file": "clawd-docs\\cli\\configure.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/cron",
+      "title": "Cron - Clawdbot",
+      "file": "clawd-docs\\cli\\cron.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/dashboard",
+      "title": "Dashboard - Clawdbot",
+      "file": "clawd-docs\\cli\\dashboard.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/devices",
+      "title": "Devices - Clawdbot",
+      "file": "clawd-docs\\cli\\devices.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/directory",
+      "title": "Directory - Clawdbot",
+      "file": "clawd-docs\\cli\\directory.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/dns",
+      "title": "Dns - Clawdbot",
+      "file": "clawd-docs\\cli\\dns.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/docs",
+      "title": "Docs - Clawdbot",
+      "file": "clawd-docs\\cli\\docs.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/doctor",
+      "title": "Doctor - Clawdbot",
+      "file": "clawd-docs\\cli\\doctor.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/gateway",
+      "title": "Gateway - Clawdbot",
+      "file": "clawd-docs\\cli\\gateway.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/health",
+      "title": "Health - Clawdbot",
+      "file": "clawd-docs\\cli\\health.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/hooks",
+      "title": "Hooks - Clawdbot",
+      "file": "clawd-docs\\cli\\hooks.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/logs",
+      "title": "Logs - Clawdbot",
+      "file": "clawd-docs\\cli\\logs.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/memory",
+      "title": "Memory - Clawdbot",
+      "file": "clawd-docs\\cli\\memory.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/message",
+      "title": "Message - Clawdbot",
+      "file": "clawd-docs\\cli\\message.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/models",
+      "title": "Models - Clawdbot",
+      "file": "clawd-docs\\cli\\models.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/node",
+      "title": "Node - Clawdbot",
+      "file": "clawd-docs\\cli\\node.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/nodes",
+      "title": "Nodes - Clawdbot",
+      "file": "clawd-docs\\cli\\nodes.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/onboard",
+      "title": "Onboard - Clawdbot",
+      "file": "clawd-docs\\cli\\onboard.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/pairing",
+      "title": "Pairing - Clawdbot",
+      "file": "clawd-docs\\cli\\pairing.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/plugins",
+      "title": "Plugins - Clawdbot",
+      "file": "clawd-docs\\cli\\plugins.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/reset",
+      "title": "Reset - Clawdbot",
+      "file": "clawd-docs\\cli\\reset.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/sandbox",
+      "title": "Sandbox CLI - Clawdbot",
+      "file": "clawd-docs\\cli\\sandbox.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/security",
+      "title": "Security - Clawdbot",
+      "file": "clawd-docs\\cli\\security.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/sessions",
+      "title": "Sessions - Clawdbot",
+      "file": "clawd-docs\\cli\\sessions.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/setup",
+      "title": "Setup - Clawdbot",
+      "file": "clawd-docs\\cli\\setup.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/skills",
+      "title": "Skills - Clawdbot",
+      "file": "clawd-docs\\cli\\skills.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/status",
+      "title": "Status - Clawdbot",
+      "file": "clawd-docs\\cli\\status.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/system",
+      "title": "System - Clawdbot",
+      "file": "clawd-docs\\cli\\system.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/tui",
+      "title": "Tui - Clawdbot",
+      "file": "clawd-docs\\cli\\tui.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/uninstall",
+      "title": "Uninstall - Clawdbot",
+      "file": "clawd-docs\\cli\\uninstall.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/update",
+      "title": "Update - Clawdbot",
+      "file": "clawd-docs\\cli\\update.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/voicecall",
+      "title": "Voicecall - Clawdbot",
+      "file": "clawd-docs\\cli\\voicecall.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/cli/webhooks",
+      "title": "Webhooks - Clawdbot",
+      "file": "clawd-docs\\cli\\webhooks.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/agent",
+      "title": "Agent - Clawdbot",
+      "file": "clawd-docs\\concepts\\agent.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/agent-loop",
+      "title": "Agent loop - Clawdbot",
+      "file": "clawd-docs\\concepts\\agent-loop.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/agent-workspace",
+      "title": "Agent workspace - Clawdbot",
+      "file": "clawd-docs\\concepts\\agent-workspace.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/architecture",
+      "title": "Architecture - Clawdbot",
+      "file": "clawd-docs\\concepts\\architecture.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/channel-routing",
+      "title": "Channel routing - Clawdbot",
+      "file": "clawd-docs\\concepts\\channel-routing.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/compaction",
+      "title": "Compaction - Clawdbot",
+      "file": "clawd-docs\\concepts\\compaction.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/context",
+      "title": "Context - Clawdbot",
+      "file": "clawd-docs\\concepts\\context.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/group-messages",
+      "title": "Group messages - Clawdbot",
+      "file": "clawd-docs\\concepts\\group-messages.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/groups",
+      "title": "Groups - Clawdbot",
+      "file": "clawd-docs\\concepts\\groups.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/markdown-formatting",
+      "title": "Markdown formatting - Clawdbot",
+      "file": "clawd-docs\\concepts\\markdown-formatting.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/memory",
+      "title": "Memory - Clawdbot",
+      "file": "clawd-docs\\concepts\\memory.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/messages",
+      "title": "Messages - Clawdbot",
+      "file": "clawd-docs\\concepts\\messages.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/model-failover",
+      "title": "Model failover - Clawdbot",
+      "file": "clawd-docs\\concepts\\model-failover.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/model-providers",
+      "title": "Model providers - Clawdbot",
+      "file": "clawd-docs\\concepts\\model-providers.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/models",
+      "title": "Models - Clawdbot",
+      "file": "clawd-docs\\concepts\\models.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/multi-agent",
+      "title": "Multi-Agent Routing - Clawdbot",
+      "file": "clawd-docs\\concepts\\multi-agent.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/oauth",
+      "title": "Oauth - Clawdbot",
+      "file": "clawd-docs\\concepts\\oauth.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/presence",
+      "title": "Presence - Clawdbot",
+      "file": "clawd-docs\\concepts\\presence.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/queue",
+      "title": "Queue - Clawdbot",
+      "file": "clawd-docs\\concepts\\queue.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/retry",
+      "title": "Retry - Clawdbot",
+      "file": "clawd-docs\\concepts\\retry.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/session",
+      "title": "Session - Clawdbot",
+      "file": "clawd-docs\\concepts\\session.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/session-pruning",
+      "title": "Session pruning - Clawdbot",
+      "file": "clawd-docs\\concepts\\session-pruning.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/session-tool",
+      "title": "Session tool - Clawdbot",
+      "file": "clawd-docs\\concepts\\session-tool.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/sessions",
+      "title": "Sessions - Clawdbot",
+      "file": "clawd-docs\\concepts\\sessions.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/streaming",
+      "title": "Streaming - Clawdbot",
+      "file": "clawd-docs\\concepts\\streaming.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/system-prompt",
+      "title": "System prompt - Clawdbot",
+      "file": "clawd-docs\\concepts\\system-prompt.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/timezone",
+      "title": "Timezone - Clawdbot",
+      "file": "clawd-docs\\concepts\\timezone.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/typebox",
+      "title": "Typebox - Clawdbot",
+      "file": "clawd-docs\\concepts\\typebox.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/typing-indicators",
+      "title": "Typing indicators - Clawdbot",
+      "file": "clawd-docs\\concepts\\typing-indicators.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/concepts/usage-tracking",
+      "title": "Usage tracking - Clawdbot",
+      "file": "clawd-docs\\concepts\\usage-tracking.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/date-time",
+      "title": "Date time - Clawdbot",
+      "file": "clawd-docs\\date-time.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/debugging",
+      "title": "Debugging - Clawdbot",
+      "file": "clawd-docs\\debugging.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/diagnostics/flags",
+      "title": "Flags - Clawdbot",
+      "file": "clawd-docs\\diagnostics\\flags.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/environment",
+      "title": "Environment - Clawdbot",
+      "file": "clawd-docs\\environment.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/experiments/onboarding-config-protocol",
+      "title": "Onboarding config protocol - Clawdbot",
+      "file": "clawd-docs\\experiments\\onboarding-config-protocol.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/experiments/plans/cron-add-hardening",
+      "title": "Cron add hardening - Clawdbot",
+      "file": "clawd-docs\\experiments\\plans\\cron-add-hardening.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/experiments/plans/group-policy-hardening",
+      "title": "Group policy hardening - Clawdbot",
+      "file": "clawd-docs\\experiments\\plans\\group-policy-hardening.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/experiments/proposals/model-config",
+      "title": "Model config - Clawdbot",
+      "file": "clawd-docs\\experiments\\proposals\\model-config.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/experiments/research/memory",
+      "title": "Memory - Clawdbot",
+      "file": "clawd-docs\\experiments\\research\\memory.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\gateway.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/authentication",
+      "title": "Authentication - Clawdbot",
+      "file": "clawd-docs\\gateway\\authentication.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/background-process",
+      "title": "Background process - Clawdbot",
+      "file": "clawd-docs\\gateway\\background-process.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/bonjour",
+      "title": "Bonjour - Clawdbot",
+      "file": "clawd-docs\\gateway\\bonjour.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/bridge-protocol",
+      "title": "Bridge protocol - Clawdbot",
+      "file": "clawd-docs\\gateway\\bridge-protocol.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/cli-backends",
+      "title": "Cli backends - Clawdbot",
+      "file": "clawd-docs\\gateway\\cli-backends.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/configuration",
+      "title": "Configuration - Clawdbot",
+      "file": "clawd-docs\\gateway\\configuration.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/configuration-examples",
+      "title": "Configuration examples - Clawdbot",
+      "file": "clawd-docs\\gateway\\configuration-examples.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/discovery",
+      "title": "Discovery - Clawdbot",
+      "file": "clawd-docs\\gateway\\discovery.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/doctor",
+      "title": "Doctor - Clawdbot",
+      "file": "clawd-docs\\gateway\\doctor.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/gateway-lock",
+      "title": "Gateway lock - Clawdbot",
+      "file": "clawd-docs\\gateway\\gateway-lock.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/health",
+      "title": "Health - Clawdbot",
+      "file": "clawd-docs\\gateway\\health.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/heartbeat",
+      "title": "Heartbeat - Clawdbot",
+      "file": "clawd-docs\\gateway\\heartbeat.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/local-models",
+      "title": "Local models - Clawdbot",
+      "file": "clawd-docs\\gateway\\local-models.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/logging",
+      "title": "Logging - Clawdbot",
+      "file": "clawd-docs\\gateway\\logging.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/multiple-gateways",
+      "title": "Multiple gateways - Clawdbot",
+      "file": "clawd-docs\\gateway\\multiple-gateways.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/openai-http-api",
+      "title": "Openai http api - Clawdbot",
+      "file": "clawd-docs\\gateway\\openai-http-api.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/openresponses-http-api",
+      "title": "Openresponses http api - Clawdbot",
+      "file": "clawd-docs\\gateway\\openresponses-http-api.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/pairing",
+      "title": "Pairing - Clawdbot",
+      "file": "clawd-docs\\gateway\\pairing.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/protocol",
+      "title": "Protocol - Clawdbot",
+      "file": "clawd-docs\\gateway\\protocol.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/remote",
+      "title": "Remote - Clawdbot",
+      "file": "clawd-docs\\gateway\\remote.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/remote-gateway-readme",
+      "title": "Remote gateway readme - Clawdbot",
+      "file": "clawd-docs\\gateway\\remote-gateway-readme.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/sandbox-vs-tool-policy-vs-elevated",
+      "title": "Sandbox vs Tool Policy vs Elevated - Clawdbot",
+      "file": "clawd-docs\\gateway\\sandbox-vs-tool-policy-vs-elevated.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/sandboxing",
+      "title": "Sandboxing - Clawdbot",
+      "file": "clawd-docs\\gateway\\sandboxing.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/security",
+      "title": "Security - Clawdbot",
+      "file": "clawd-docs\\gateway\\security.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/tailscale",
+      "title": "Tailscale - Clawdbot",
+      "file": "clawd-docs\\gateway\\tailscale.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/tools-invoke-http-api",
+      "title": "Tools invoke http api - Clawdbot",
+      "file": "clawd-docs\\gateway\\tools-invoke-http-api.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/gateway/troubleshooting",
+      "title": "Troubleshooting - Clawdbot",
+      "file": "clawd-docs\\gateway\\troubleshooting.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/help",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\help.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/help/faq",
+      "title": "Faq - Clawdbot",
+      "file": "clawd-docs\\help\\faq.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/help/troubleshooting",
+      "title": "Troubleshooting - Clawdbot",
+      "file": "clawd-docs\\help\\troubleshooting.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/hooks",
+      "title": "Hooks - Clawdbot",
+      "file": "clawd-docs\\hooks.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/hooks/soul-evil",
+      "title": "Soul evil - Clawdbot",
+      "file": "clawd-docs\\hooks\\soul-evil.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/install",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\install.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/install/ansible",
+      "title": "Ansible - Clawdbot",
+      "file": "clawd-docs\\install\\ansible.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/install/bun",
+      "title": "Bun - Clawdbot",
+      "file": "clawd-docs\\install\\bun.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/install/development-channels",
+      "title": "Development channels - Clawdbot",
+      "file": "clawd-docs\\install\\development-channels.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/install/docker",
+      "title": "Docker - Clawdbot",
+      "file": "clawd-docs\\install\\docker.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/install/installer",
+      "title": "Installer - Clawdbot",
+      "file": "clawd-docs\\install\\installer.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/install/nix",
+      "title": "Nix - Clawdbot",
+      "file": "clawd-docs\\install\\nix.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/install/uninstall",
+      "title": "Uninstall - Clawdbot",
+      "file": "clawd-docs\\install\\uninstall.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/install/updating",
+      "title": "Updating - Clawdbot",
+      "file": "clawd-docs\\install\\updating.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/logging",
+      "title": "Logging - Clawdbot",
+      "file": "clawd-docs\\logging.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/multi-agent-sandbox-tools",
+      "title": "Multi-Agent Sandbox & Tools - Clawdbot",
+      "file": "clawd-docs\\multi-agent-sandbox-tools.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/network",
+      "title": "Network - Clawdbot",
+      "file": "clawd-docs\\network.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/nodes",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\nodes.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/nodes/audio",
+      "title": "Audio - Clawdbot",
+      "file": "clawd-docs\\nodes\\audio.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/nodes/camera",
+      "title": "Camera - Clawdbot",
+      "file": "clawd-docs\\nodes\\camera.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/nodes/images",
+      "title": "Images - Clawdbot",
+      "file": "clawd-docs\\nodes\\images.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/nodes/location-command",
+      "title": "Location command - Clawdbot",
+      "file": "clawd-docs\\nodes\\location-command.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/nodes/talk",
+      "title": "Talk - Clawdbot",
+      "file": "clawd-docs\\nodes\\talk.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/nodes/voicewake",
+      "title": "Voicewake - Clawdbot",
+      "file": "clawd-docs\\nodes\\voicewake.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/perplexity",
+      "title": "Perplexity - Clawdbot",
+      "file": "clawd-docs\\perplexity.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\platforms.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/android",
+      "title": "Android - Clawdbot",
+      "file": "clawd-docs\\platforms\\android.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/exe-dev",
+      "title": "Exe dev - Clawdbot",
+      "file": "clawd-docs\\platforms\\exe-dev.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/fly",
+      "title": "Fly.io - Clawdbot",
+      "file": "clawd-docs\\platforms\\fly.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/hetzner",
+      "title": "Hetzner - Clawdbot",
+      "file": "clawd-docs\\platforms\\hetzner.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/ios",
+      "title": "Ios - Clawdbot",
+      "file": "clawd-docs\\platforms\\ios.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/linux",
+      "title": "Linux - Clawdbot",
+      "file": "clawd-docs\\platforms\\linux.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/bundled-gateway",
+      "title": "Bundled gateway - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\bundled-gateway.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/canvas",
+      "title": "Canvas - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\canvas.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/child-process",
+      "title": "Child process - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\child-process.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/dev-setup",
+      "title": "Dev setup - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\dev-setup.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/health",
+      "title": "Health - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\health.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/icon",
+      "title": "Icon - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\icon.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/logging",
+      "title": "Logging - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\logging.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/menu-bar",
+      "title": "Menu bar - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\menu-bar.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/peekaboo",
+      "title": "Peekaboo - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\peekaboo.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/permissions",
+      "title": "Permissions - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\permissions.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/release",
+      "title": "Release - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\release.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/remote",
+      "title": "Remote - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\remote.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/signing",
+      "title": "Signing - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\signing.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/skills",
+      "title": "Skills - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\skills.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/voice-overlay",
+      "title": "Voice overlay - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\voice-overlay.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/voicewake",
+      "title": "Voicewake - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\voicewake.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/webchat",
+      "title": "Webchat - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\webchat.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/mac/xpc",
+      "title": "Xpc - Clawdbot",
+      "file": "clawd-docs\\platforms\\mac\\xpc.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/macos",
+      "title": "Macos - Clawdbot",
+      "file": "clawd-docs\\platforms\\macos.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/macos-vm",
+      "title": "Macos vm - Clawdbot",
+      "file": "clawd-docs\\platforms\\macos-vm.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/platforms/windows",
+      "title": "Windows - Clawdbot",
+      "file": "clawd-docs\\platforms\\windows.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/plugin",
+      "title": "Plugin - Clawdbot",
+      "file": "clawd-docs\\plugin.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/plugins",
+      "title": "Plugin - Clawdbot",
+      "file": "clawd-docs\\plugins.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/plugins/agent-tools",
+      "title": "Agent tools - Clawdbot",
+      "file": "clawd-docs\\plugins\\agent-tools.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/plugins/manifest",
+      "title": "Manifest - Clawdbot",
+      "file": "clawd-docs\\plugins\\manifest.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/plugins/voice-call",
+      "title": "Voice call - Clawdbot",
+      "file": "clawd-docs\\plugins\\voice-call.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/plugins/zalouser",
+      "title": "Zalouser - Clawdbot",
+      "file": "clawd-docs\\plugins\\zalouser.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/prose",
+      "title": "Prose - Clawdbot",
+      "file": "clawd-docs\\prose.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\providers.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/anthropic",
+      "title": "Anthropic - Clawdbot",
+      "file": "clawd-docs\\providers\\anthropic.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/deepgram",
+      "title": "Deepgram - Clawdbot",
+      "file": "clawd-docs\\providers\\deepgram.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/glm",
+      "title": "Glm - Clawdbot",
+      "file": "clawd-docs\\providers\\glm.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/minimax",
+      "title": "Minimax - Clawdbot",
+      "file": "clawd-docs\\providers\\minimax.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/models",
+      "title": "Models - Clawdbot",
+      "file": "clawd-docs\\providers\\models.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/moonshot",
+      "title": "Moonshot - Clawdbot",
+      "file": "clawd-docs\\providers\\moonshot.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/ollama",
+      "title": "Ollama - Clawdbot",
+      "file": "clawd-docs\\providers\\ollama.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/openai",
+      "title": "Openai - Clawdbot",
+      "file": "clawd-docs\\providers\\openai.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/opencode",
+      "title": "Opencode - Clawdbot",
+      "file": "clawd-docs\\providers\\opencode.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/openrouter",
+      "title": "Openrouter - Clawdbot",
+      "file": "clawd-docs\\providers\\openrouter.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/qwen",
+      "title": "Qwen - Clawdbot",
+      "file": "clawd-docs\\providers\\qwen.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/synthetic",
+      "title": "Synthetic - Clawdbot",
+      "file": "clawd-docs\\providers\\synthetic.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/venice",
+      "title": "Venice - Clawdbot",
+      "file": "clawd-docs\\providers\\venice.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/vercel-ai-gateway",
+      "title": "Vercel AI Gateway - Clawdbot",
+      "file": "clawd-docs\\providers\\vercel-ai-gateway.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/providers/zai",
+      "title": "Zai - Clawdbot",
+      "file": "clawd-docs\\providers\\zai.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/railway",
+      "title": "Deploy on Railway - Clawdbot",
+      "file": "clawd-docs\\railway.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/AGENTS.default",
+      "title": "AGENTS.default - Clawdbot",
+      "file": "clawd-docs\\reference\\AGENTS.default.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/RELEASING",
+      "title": "RELEASING - Clawdbot",
+      "file": "clawd-docs\\reference\\RELEASING.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/device-models",
+      "title": "Device models - Clawdbot",
+      "file": "clawd-docs\\reference\\device-models.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/rpc",
+      "title": "Rpc - Clawdbot",
+      "file": "clawd-docs\\reference\\rpc.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/session-management-compaction",
+      "title": "Session management compaction - Clawdbot",
+      "file": "clawd-docs\\reference\\session-management-compaction.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/templates/AGENTS",
+      "title": "AGENTS - Clawdbot",
+      "file": "clawd-docs\\reference\\templates\\AGENTS.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/templates/BOOT",
+      "title": "BOOT - Clawdbot",
+      "file": "clawd-docs\\reference\\templates\\BOOT.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/templates/BOOTSTRAP",
+      "title": "BOOTSTRAP - Clawdbot",
+      "file": "clawd-docs\\reference\\templates\\BOOTSTRAP.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/templates/HEARTBEAT",
+      "title": "HEARTBEAT - Clawdbot",
+      "file": "clawd-docs\\reference\\templates\\HEARTBEAT.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/templates/IDENTITY",
+      "title": "IDENTITY - Clawdbot",
+      "file": "clawd-docs\\reference\\templates\\IDENTITY.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/templates/SOUL",
+      "title": "SOUL - Clawdbot",
+      "file": "clawd-docs\\reference\\templates\\SOUL.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/templates/TOOLS",
+      "title": "TOOLS - Clawdbot",
+      "file": "clawd-docs\\reference\\templates\\TOOLS.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/templates/USER",
+      "title": "USER - Clawdbot",
+      "file": "clawd-docs\\reference\\templates\\USER.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/test",
+      "title": "Test - Clawdbot",
+      "file": "clawd-docs\\reference\\test.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/reference/transcript-hygiene",
+      "title": "Transcript hygiene - Clawdbot",
+      "file": "clawd-docs\\reference\\transcript-hygiene.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/render",
+      "title": "Deploy on Render - Clawdbot",
+      "file": "clawd-docs\\render.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/start/clawd",
+      "title": "Clawd - Clawdbot",
+      "file": "clawd-docs\\start\\clawd.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/start/getting-started",
+      "title": "Getting started - Clawdbot",
+      "file": "clawd-docs\\start\\getting-started.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/start/hubs",
+      "title": "Hubs - Clawdbot",
+      "file": "clawd-docs\\start\\hubs.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/start/lore",
+      "title": "Lore - Clawdbot",
+      "file": "clawd-docs\\start\\lore.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/start/onboarding",
+      "title": "Onboarding - Clawdbot",
+      "file": "clawd-docs\\start\\onboarding.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/start/pairing",
+      "title": "Pairing - Clawdbot",
+      "file": "clawd-docs\\start\\pairing.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/start/setup",
+      "title": "Setup - Clawdbot",
+      "file": "clawd-docs\\start\\setup.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/start/showcase",
+      "title": "Showcase - Clawdbot",
+      "file": "clawd-docs\\start\\showcase.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/start/wizard",
+      "title": "Wizard - Clawdbot",
+      "file": "clawd-docs\\start\\wizard.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/testing",
+      "title": "Testing - Clawdbot",
+      "file": "clawd-docs\\testing.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/token-use",
+      "title": "Token use - Clawdbot",
+      "file": "clawd-docs\\token-use.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\tools.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/agent-send",
+      "title": "Agent send - Clawdbot",
+      "file": "clawd-docs\\tools\\agent-send.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/apply-patch",
+      "title": "Apply patch - Clawdbot",
+      "file": "clawd-docs\\tools\\apply-patch.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/browser",
+      "title": "Browser - Clawdbot",
+      "file": "clawd-docs\\tools\\browser.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/browser-linux-troubleshooting",
+      "title": "Browser linux troubleshooting - Clawdbot",
+      "file": "clawd-docs\\tools\\browser-linux-troubleshooting.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/browser-login",
+      "title": "Browser login - Clawdbot",
+      "file": "clawd-docs\\tools\\browser-login.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/chrome-extension",
+      "title": "Chrome extension - Clawdbot",
+      "file": "clawd-docs\\tools\\chrome-extension.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/clawdhub",
+      "title": "Clawdhub - Clawdbot",
+      "file": "clawd-docs\\tools\\clawdhub.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/elevated",
+      "title": "Elevated - Clawdbot",
+      "file": "clawd-docs\\tools\\elevated.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/exec",
+      "title": "Exec - Clawdbot",
+      "file": "clawd-docs\\tools\\exec.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/exec-approvals",
+      "title": "Exec approvals - Clawdbot",
+      "file": "clawd-docs\\tools\\exec-approvals.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/firecrawl",
+      "title": "Firecrawl - Clawdbot",
+      "file": "clawd-docs\\tools\\firecrawl.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/llm-task",
+      "title": "Llm task - Clawdbot",
+      "file": "clawd-docs\\tools\\llm-task.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/lobster",
+      "title": "Lobster - Clawdbot",
+      "file": "clawd-docs\\tools\\lobster.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/reactions",
+      "title": "Reactions - Clawdbot",
+      "file": "clawd-docs\\tools\\reactions.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/skills",
+      "title": "Skills - Clawdbot",
+      "file": "clawd-docs\\tools\\skills.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/skills-config",
+      "title": "Skills config - Clawdbot",
+      "file": "clawd-docs\\tools\\skills-config.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/slash-commands",
+      "title": "Slash commands - Clawdbot",
+      "file": "clawd-docs\\tools\\slash-commands.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/subagents",
+      "title": "Subagents - Clawdbot",
+      "file": "clawd-docs\\tools\\subagents.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/thinking",
+      "title": "Thinking - Clawdbot",
+      "file": "clawd-docs\\tools\\thinking.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tools/web",
+      "title": "Web - Clawdbot",
+      "file": "clawd-docs\\tools\\web.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tts",
+      "title": "Tts - Clawdbot",
+      "file": "clawd-docs\\tts.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/tui",
+      "title": "Tui - Clawdbot",
+      "file": "clawd-docs\\tui.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/vps",
+      "title": "Vps - Clawdbot",
+      "file": "clawd-docs\\vps.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/web",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\web.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/web/control-ui",
+      "title": "Control ui - Clawdbot",
+      "file": "clawd-docs\\web\\control-ui.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/web/dashboard",
+      "title": "Dashboard - Clawdbot",
+      "file": "clawd-docs\\web\\dashboard.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/web/index",
+      "title": "Index - Clawdbot",
+      "file": "clawd-docs\\web\\index.md"
+    },
+    {
+      "url": "https://docs.clawd.bot/web/webchat",
+      "title": "Webchat - Clawdbot",
+      "file": "clawd-docs\\web\\webchat.md"
+    }
+  ]
+}

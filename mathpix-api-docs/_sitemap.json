@@ -1,0 +1,16 @@
+{
+  "base_url": "https://docs.mathpix.com",
+  "total_pages": 2,
+  "pages": [
+    {
+      "url": "https://docs.mathpix.com",
+      "title": "Mathpix API v3 Reference",
+      "file": "mathpix-api-docs\\index.md"
+    },
+    {
+      "url": "https://docs.mathpix.com/",
+      "title": "Mathpix API v3 Reference",
+      "file": "mathpix-api-docs\\index.md"
+    }
+  ]
+}
